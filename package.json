@@ -6,7 +6,8 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.13.7",
-    "hono": "^4.6.16"
+    "hono": "^4.6.16",
+    "serve-static": "link:@hono/node-server/serve-static"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",

@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRU2hwR0dSbWk5aDVXNTVvdXFtQ0M5dTlkbUpZVmpNT3FBMm5BYlVWQnlZM2NzMUsyd1NKekdoUVpFR2RFUHZic1ljN1M5WWNzNUNBZStsUHo5d09MYVhFV2E1cHBJYndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2OTM2Mjk0CWZpbGU6dGVzdC10YXVyaS11cGRhdGVyLmFwcC50YXIuZ3oKZDRKVGIrYzNHcEx6WFFKZGN3RzhpTllXY2k1c3VhQ292bGtURjViWE9nYSsxNVMydGtGOHVBTTRZSSswT0pkVE5QWEJteGdxdkVnNVNtZHNQb0lZQVE9PQo=",
+      "url": "http://localhost:3000/static/0.1.0"
+    }
+  }
+}

@@ -14,6 +14,9 @@ importers:
       hono:
         specifier: ^4.6.16
         version: 4.6.16
+      serve-static:
+        specifier: link:@hono/node-server/serve-static
+        version: link:@hono/node-server/serve-static
     devDependencies:
       '@types/node':
         specifier: ^20.11.17
